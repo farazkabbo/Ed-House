@@ -1,2 +1,2 @@
 # Ed-House
-Ed-House offers the parents or teachers to evaluate the performance of the children's studies through Digital Technology
+Ed-House offers the parents who are working professionals to monitor the performance of their children who are homeschooling.
